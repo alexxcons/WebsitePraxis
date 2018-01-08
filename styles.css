@@ -144,55 +144,48 @@ div#wrapper {
 }
 
 
-/** Der dicke blaue Balken **/
-
-div#sitename h1{
+/*********************************** header ***********************************/
+div#header {
+	margin: auto;
+	padding : auto;
+	background:transparent url('images/default/header-bg.jpg') no-repeat;
+	width:900px;
+	height:201px;
+	position:absolute;
+	top:13px;
+}
+div#header h1{
+	white-space: nowrap;
 	color:#ffffff;
 	font-size:48px;
-	margin:33px;
-	height:0px;
-	padding:0px 0px 0 0px;
-	letter-spacing:0px;
-}
-div#sitename {
-	font-size:48px;
-	margin:0px;
-	height:0px;
-	padding:0px 0px 0 0px;
-}
-
-/** header **/
-div#header {
-	padding:70px 80px 40px;
-	margin:-20px;
-	height:111px;
-	background:transparent url('images/default/header-bg.jpg') no-repeat;
+	margin-left:10px;
+	margin-top:33px;
 }
 div#header h2 {
+	white-space: nowrap;
 	color:#ffffff;
 	padding-bottom:0;
-	margin:30px;
+	margin-left:60px;
 	font-weight:normal;
 	font-family:'Lucida Grande','Lucida Sans Unicode',Geneva,Verdana,Sans-Serif;
 	font-size:32px;
+	display:block;
 	letter-spacing:0;
 }
-div#header div.tagline {
+div#header h3 {
 	color:#C2D7F9;
-	padding:0px 50px 0px;
-	margin:-20px;
+	margin-left:60px;
+	margin-top:10px;
 	font-size:14px;
-	padding-bottom:10px;
 	font-family:Arial,Helvetica,sans-serif;
 }
-div#header div.tagline a {
-	color:#ffffff;
-}
 
-/** body **/
+/*********************************** body ***********************************/
 div#body {
 	padding:30px 0;
 	background:#fff url('images/default/content-bg.jpg') repeat-x scroll top left;
+	position: relative;
+	top:215px;
 }
 
 /** content+sidebar styles **/
@@ -265,11 +258,13 @@ div#sidebar h4 {
 }
 
 
-/** footer **/
+/*************************************** footer ***************************************/
 div#footer {
 	padding:20px 20px;
 	color:#fff;
 	border-top:5px solid #ccc;
+	position: relative;
+	top:215px;
 }
 div#footer p {
 	color:#666;
@@ -286,7 +281,25 @@ div#footer p a {
 
 }
 
-/** tablet / smartphone **/
+/*************************************** clear fix ***************************************/
+.clear:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clear {
+	display: inline-block;
+}
+.clear {
+	display: block;
+}
+
+
+/***************************************** tablet / smartphone *****************************************/
 @media only screen and (max-width: 1024px) {
 }
 
@@ -316,21 +329,24 @@ h5 {
 	font-size:13px;
 }
 
-div#sitename h1{
+div#header h2 {
+	padding-bottom:0;
+	margin:0px;
+	font-size:16px;
+	letter-spacing:0;
+}
+
+div#header {
+	height:35px;
+	width:480px;
+	background:transparent url('images/mobile/header-bg.jpg') no-repeat;
+}
+
+div#header h1{
 	font-size:18px;
 	margin-left:2%;
 	margin-top:10px;
-	height:0px;
-	padding:0px 0px 0 0px;
 	letter-spacing:0px;
-}
-
-/** header **/
-div#header {
-	padding:50px 10%;
-	margin-left:2%;
-	height:35px;
-	background:transparent url('images/mobile/header-bg.jpg') no-repeat;
 }
 div#header h2 {
 	padding-bottom:0;
@@ -338,11 +354,12 @@ div#header h2 {
 	font-size:16px;
 	letter-spacing:0;
 }
-div#header div.tagline {
-	padding:20px 0 0px;
-	margin-left:0;
-	font-size:12px;
+div#header h3 {
+	margin-left:60px;
+	margin-top:10px;
+	font-size:14px;
 }
+
 
 body {
 	font-weight: 700;
@@ -410,21 +427,4 @@ div#sidebar li ul.blocklist li a {
 	padding-left:10px;
 }
 
-}
-
-/** clear fix **/
-.clear:after {
-	content: ".";
-	display: block;
-	clear: both;
-	visibility: hidden;
-	line-height: 0;
-	height: 0;
-}
- 
-.clear {
-	display: inline-block;
-}
-.clear {
-	display: block;
 }
