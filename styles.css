@@ -216,7 +216,7 @@ div#sidebar li ul li a {
 	color:#333;
 	text-decoration:none;
 	font-family:Verdana, Geneva, sans-serif;
-	font-weight:normal;
+	font-weight:bold;
 }
 div#sidebar li ul li a:hover {
 	color:#09285E;
