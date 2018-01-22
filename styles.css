@@ -2,11 +2,10 @@
 body {
 	margin:0px auto;
 	padding:0;
-	/**font-family:Verdana, Geneva, sans-serif;**/
-	font-family: "Source Sans Pro","sans-serif";
-	font-weight: 700;
-	font-size:16px;
-	color:#333;
+	font-family: Verdana, Calibri, Arial, Sans-Serif;
+	font-weight:bold;
+	font-size:medium;
+	color:#525252;
 	background:#fff url('images/default/body-bg.jpg') repeat-x;
 }
 * {
@@ -18,7 +17,6 @@ body {
 /** element defaults **/
 table {
 	width:100%;
-	font-family:Arial, Helvetica, sans-serif;
 	text-align:left;
 }
 th, td {
@@ -46,7 +44,8 @@ blockquote p {
 }
 p {
 	line-height:1.9em;
-	margin-bottom:20px;
+	margin-bottom:15px;
+	line-height: 18px;
 }
 a {
 	color:#0D3C84;
@@ -74,13 +73,11 @@ fieldset form {
 fieldset p label {
 	float:left;
 	width:150px;
-	font-family:Arial, Helvetica, sans-serif;
 }
 fieldset form input, fieldset form select, fieldset form textarea {
 	padding:5px;
 	color:#333333;
 	font-size:13px;
-	font-family:Arial, Helvetica, sans-serif;
 	border:1px solid #ddd;
 }
 fieldset form input.formbutton {
@@ -95,11 +92,8 @@ fieldset form input.formbutton {
 }
 h1 {
 	font-size:45px;
-	font-family:Arial, Helvetica, sans-serif;
 }
 h2 {
-	color:#061C41;
-	font-family:Arial,Helvetica,sans-serif;
 	font-size:30px;
 	font-weight:bold;
 	letter-spacing:-2px;
@@ -107,22 +101,30 @@ h2 {
 	margin:0;
 }
 h3 {
-	font-family:Arial,Helvetica,sans-serif;
-	color:#0D357B;
-	font-size:20px;
+	font-size:large;
 	padding-bottom:10px;
 }
 h4 {
-	font-family:Arial,Helvetica,sans-serif;
 	padding-bottom:10px;
-	font-size:15px;
-	color:#0C3A85;
+	font-weight:bold;
+	font-size:medium;
 }
+
+/** small **/
 h5 {
-	padding-bottom:10px;
-	font-size:13px;
-	color:#666666;
+	font-size:11px;
+	font-weight:normal;
+
 }
+
+h1,
+h2,
+h3,
+h4{
+color:#034DA1;
+}
+
+
 ul, ol {
 	margin:0 0 35px 35px;
 }
@@ -167,7 +169,6 @@ div#header h2 {
 	padding-bottom:0;
 	margin-left:60px;
 	font-weight:normal;
-	font-family:'Lucida Grande','Lucida Sans Unicode',Geneva,Verdana,Sans-Serif;
 	font-size:32px;
 	display:block;
 	letter-spacing:0;
@@ -177,7 +178,6 @@ div#header h3 {
 	margin-left:60px;
 	margin-top:10px;
 	font-size:14px;
-	font-family:Arial,Helvetica,sans-serif;
 }
 
 /*********************************** body ***********************************/
@@ -189,7 +189,7 @@ div#body {
 
 /** content+sidebar styles **/
 div#content {
-	width:700px;
+	width:730px;
 }
 div.column-left {
 	margin-top:5px;
