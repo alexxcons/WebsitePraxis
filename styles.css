@@ -24,8 +24,7 @@ th, td {
 }
 th {
 	color:#fff;
-	border-top:3px solid #082659;
-	background-color:#0C3A87;
+	background-color:#1149a6;
 }
 td {
 	border-bottom:1px solid #f4f4f4;
@@ -121,7 +120,7 @@ h1,
 h2,
 h3,
 h4{
-color:#034DA1;
+color:#1149a6;
 }
 
 
@@ -184,7 +183,7 @@ div#header h3 {
 div#body {
 	background:#fff url('images/default/content-bg.jpg') repeat-x scroll top left;
 	position: relative;
-	top:214px;
+	top:230px;
 }
 
 /** content+sidebar styles **/
@@ -265,7 +264,7 @@ div#footer {
 	color:#fff;
 	border-top:5px solid #ccc;
 	position: relative;
-	top:214px;
+	top:230px;
 }
 div#footer p {
 	color:#666;
