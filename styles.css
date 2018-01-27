@@ -281,6 +281,11 @@ div#footer p a {
 
 }
 
+/*************************************** used for mail address in impressum ***************************************/
+.cryptedmail:after {
+  content: attr(data-name) "@" attr(data-domain) "." attr(data-tld); 
+}
+
 /*************************************** clear fix ***************************************/
 .clear:after {
 	content: ".";
