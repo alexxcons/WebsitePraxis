@@ -180,6 +180,10 @@ div#header h3 {
 	font-size:18px;
 }
 
+img.ansicht-praxis {
+	content:url("images/default/AnsichtPraxis.jpg")
+}
+
 /*********************************** body ***********************************/
 div#body {
 	background:#fff url('images/default/content-bg.jpg') repeat-x scroll top left;
@@ -379,6 +383,10 @@ div#content {
 div#body {
 	padding:0%;
 	top:100px;
+}
+
+img.ansicht-praxis {
+	content:url("images/mobile/AnsichtPraxis.jpg")
 }
 
 div.column-right {
