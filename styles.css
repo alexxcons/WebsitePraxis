@@ -180,8 +180,9 @@ div#header h3 {
 	font-size:18px;
 }
 
-img.ansicht-praxis {
-	content:url("images/default/AnsichtPraxis.jpg")
+#AnsichtPraxis {
+    width: 730px;
+    height: 349px;
 }
 
 /*********************************** body ***********************************/
@@ -385,8 +386,9 @@ div#body {
 	top:100px;
 }
 
-img.ansicht-praxis {
-	content:url("images/mobile/AnsichtPraxis.jpg")
+#AnsichtPraxis {
+    width: 480px;
+    height: 230px;
 }
 
 div.column-right {
