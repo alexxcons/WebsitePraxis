@@ -162,23 +162,23 @@ div#header h1{
 	font-size:48px;
 	font-weight:normal;
 	margin-left:10px;
-	margin-top:40px;
+	margin-top:20px;
 }
 div#header h2 {
 	white-space: nowrap;
 	color:#ffffff;
 	padding-bottom:0;
-	margin-left:60px;
-	margin-top:10px;
+	margin-left:80px;
+              margin-top:10px;
 	font-weight:normal;
 	font-style: italic;
-	font-size:32px;
+	font-size:40px;
 	display:block;
 	letter-spacing:0;
 }
 div#header h3 {
 	color:#C2D7F9;
-	margin-left:60px;
+	margin-left:80px;
 	margin-top:10px;
 	font-size:18px;
 }
