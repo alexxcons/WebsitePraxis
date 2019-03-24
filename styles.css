@@ -197,7 +197,6 @@ div#header h3 {
 
 /*********************************** body ***********************************/
 div#body {
-    background:#fff url('images/default/content-bg.jpg') repeat-x scroll top left;
     position: relative;
     top:230px;
 }
