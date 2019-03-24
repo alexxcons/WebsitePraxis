@@ -9,22 +9,72 @@
 
 <url>
   <loc>https://arzt-eppertshausen.de/</loc>
-  <lastmod>2019-02-05T09:42:50+00:00</lastmod>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://arzt-eppertshausen.de/index.html</loc>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arzt-eppertshausen.de/aktuell.html</loc>
+  <lastmod>2019-03-24T17:03:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arzt-eppertshausen.de/team.html</loc>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://arzt-eppertshausen.de/sprechzeiten.html</loc>
-  <lastmod>2019-02-05T09:42:50+00:00</lastmod>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arzt-eppertshausen.de/kontakt.html</loc>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arzt-eppertshausen.de/anfahrt.html</loc>
+  <lastmod>2019-03-24T17:03:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arzt-eppertshausen.de/terminvergabe.html</loc>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arzt-eppertshausen.de/leistungen.html</loc>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arzt-eppertshausen.de/vorsorge.html</loc>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arzt-eppertshausen.de/notfallnummern.html</loc>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arzt-eppertshausen.de/notdienst.html</loc>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://arzt-eppertshausen.de/impressum.html</loc>
-  <lastmod>2019-02-05T09:42:50+00:00</lastmod>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
   <priority>0.20</priority>
 </url>
 <url>
   <loc>https://arzt-eppertshausen.de/datenschutz.html</loc>
-  <lastmod>2019-02-05T09:42:50+00:00</lastmod>
+  <lastmod>2019-03-24T17:03:26+00:00</lastmod>
   <priority>0.20</priority>
 </url>
 
