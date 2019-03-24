@@ -183,9 +183,16 @@ div#header h3 {
     font-size:18px;
 }
 
-#CSchwinn {
+.portrait-container, .portrait {
+    height: 200px;
+    margin-bottom:15px;
+}
+
+.portrait {
     float:left;
-    width: 300px;
+    margin-right:15px;
+    font-size: large;
+    font-weight:normal
 }
 
 /*********************************** body ***********************************/
