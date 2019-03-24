@@ -1,119 +1,119 @@
 /** global **/
 body {
-	margin:0px auto;
-	padding:0;
-	font-family: Verdana, Calibri, Arial, Sans-Serif;
-	font-weight:bold;
-	font-size:medium;
-	color:#525252;
-	background:#fff url('images/default/body-bg.jpg') repeat-x;
+    margin:0px auto;
+    padding:0;
+    font-family: Verdana, Calibri, Arial, Sans-Serif;
+    font-weight:bold;
+    font-size:medium;
+    color:#525252;
+    background:#fff url('images/default/body-bg.jpg') repeat-x;
 }
 * {
-	margin:0;
-	padding:0;
+    margin:0;
+    padding:0;
 }
 
 
 /** element defaults **/
 table {
-	width:100%;
-	text-align:left;
+    width:100%;
+    text-align:left;
 }
 th, td {
-	padding:5px 10px;
+    padding:5px 10px;
 }
 th {
-	color:#fff;
-	background-color:#630303;
+    color:#fff;
+    background-color:#630303;
 }
 td {
-	border-bottom:1px solid #f4f4f4;
+    border-bottom:1px solid #f4f4f4;
 }
 code, blockquote {
-	display:block;
-	border-left:5px solid #ddd;
-	padding:10px;
-	margin-bottom:20px;
+    display:block;
+    border-left:5px solid #ddd;
+    padding:10px;
+    margin-bottom:20px;
 }
 blockquote p {
-	font-style:italic;
-	font-family:Georgia, "Times New Roman", Times, serif;
-	margin:0;
-	height: 1%;
+    font-style:italic;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    margin:0;
+    height: 1%;
 }
 p {
-	line-height:1.9em;
-	margin-bottom:15px;
-	line-height: 18px;
+    line-height:1.9em;
+    margin-bottom:15px;
+    line-height: 18px;
 }
 
 a {
-	color:#0D3C84;
+    color:#0D3C84;
 }
 a:hover {
-	color:#0C3A85;
+    color:#0C3A85;
 }
 a:focus {
-	outline:none;
+    outline:none;
 }
 fieldset {
-	display:block;
-	border:none;
-	border-top:1px solid #e0e0e0;
+    display:block;
+    border:none;
+    border-top:1px solid #e0e0e0;
 }
 fieldset legend {
-	font-weight:bold;
-	font-size:13px;
-	padding-right:10px;
-	color:#222;
+    font-weight:bold;
+    font-size:13px;
+    padding-right:10px;
+    color:#222;
 }
 fieldset form {
-	padding-top:15px;
+    padding-top:15px;
 }
 fieldset p label {
-	float:left;
-	width:150px;
+    float:left;
+    width:150px;
 }
 fieldset form input, fieldset form select, fieldset form textarea {
-	padding:5px;
-	color:#333333;
-	font-size:13px;
-	border:1px solid #ddd;
+    padding:5px;
+    color:#333333;
+    font-size:13px;
+    border:1px solid #ddd;
 }
 fieldset form input.formbutton {
-	margin-left:150px;
-	background:#0C3A87;
-	border:none;
-	border-bottom:3px solid #082659;
-	color:#ffffff;
-	font-weight:bold;
-	padding:5px 10px;
-	font-size:13px;
+    margin-left:150px;
+    background:#0C3A87;
+    border:none;
+    border-bottom:3px solid #082659;
+    color:#ffffff;
+    font-weight:bold;
+    padding:5px 10px;
+    font-size:13px;
 }
 h1 {
-	font-size:45px;
+    font-size:45px;
 }
 h2 {
-	font-size:30px;
-	font-weight:bold;
-	letter-spacing:-2px;
-	padding:0 0 5px;
-	margin:0;
+    font-size:30px;
+    font-weight:bold;
+    letter-spacing:-2px;
+    padding:0 0 5px;
+    margin:0;
 }
 h3 {
-	font-size:large;
-	padding-bottom:10px;
+    font-size:large;
+    padding-bottom:10px;
 }
 h4 {
-	padding-bottom:10px;
-	font-weight:bold;
-	font-size:medium;
+    padding-bottom:10px;
+    font-weight:bold;
+    font-size:medium;
 }
 
 /** small **/
 h5 {
-	font-size:11px;
-	font-weight:normal;
+    font-size:11px;
+    font-weight:normal;
 
 }
 
@@ -126,61 +126,61 @@ color:#630303;
 
 
 ul, ol {
-	margin:0 0 35px 35px;
+    margin:0 0 35px 35px;
 }
 li {
-	padding-bottom:5px;
+    padding-bottom:5px;
 }
 
 /** For consistency make scrollbar on each page visible **/
 html {
-	overflow: -moz-scrollbars-vertical; 
+    overflow: -moz-scrollbars-vertical; 
     overflow-y: scroll;
 }
 
 /** wrapper **/
 div#wrapper {
-	width:1020px;
-	margin:0px auto;
-	padding:0;
+    width:1020px;
+    margin:0px auto;
+    padding:0;
 }
 
 
 /*********************************** header ***********************************/
 div#header {
-	margin: auto;
-	padding : auto;
-	background:transparent url('images/default/header-bg.jpg') no-repeat;
-	width:900px;
-	height:201px;
-	position:absolute;
-	top:13px;
+    margin: auto;
+    padding : auto;
+    background:transparent url('images/default/header-bg.jpg') no-repeat;
+    width:900px;
+    height:201px;
+    position:absolute;
+    top:13px;
 }
 div#header h1{
-	white-space: nowrap;
-	color:#ffffff;
-	font-size:48px;
-	font-weight:normal;
-	margin-left:10px;
-	margin-top:20px;
+    white-space: nowrap;
+    color:#ffffff;
+    font-size:48px;
+    font-weight:normal;
+    margin-left:10px;
+    margin-top:20px;
 }
 div#header h2 {
-	white-space: nowrap;
-	color:#ffffff;
-	padding-bottom:0;
-	margin-left:80px;
+    white-space: nowrap;
+    color:#ffffff;
+    padding-bottom:0;
+    margin-left:80px;
               margin-top:10px;
-	font-weight:normal;
-	font-style: italic;
-	font-size:40px;
-	display:block;
-	letter-spacing:0;
+    font-weight:normal;
+    font-style: italic;
+    font-size:40px;
+    display:block;
+    letter-spacing:0;
 }
 div#header h3 {
-	color:#C2D7F9;
-	margin-left:80px;
-	margin-top:10px;
-	font-size:18px;
+    color:#C2D7F9;
+    margin-left:80px;
+    margin-top:10px;
+    font-size:18px;
 }
 
 #CSchwinn {
@@ -189,103 +189,103 @@ div#header h3 {
 
 /*********************************** body ***********************************/
 div#body {
-	background:#fff url('images/default/content-bg.jpg') repeat-x scroll top left;
-	position: relative;
-	top:230px;
+    background:#fff url('images/default/content-bg.jpg') repeat-x scroll top left;
+    position: relative;
+    top:230px;
 }
 
 /** content+sidebar styles **/
 div#content {
-	width:730px;
+    width:730px;
 }
 div.column-left {
-	margin-top:5px;
-	float:left;
-	margin-right:20px;
+    margin-top:5px;
+    float:left;
+    margin-right:20px;
 }
 div.column-right {
-	margin-top:20px;
-	float:right;
+    margin-top:20px;
+    float:right;
 }
 div#sidebar {
-	width:268px;
+    width:268px;
 }
 div#sidebar ul {
-	margin:0;
-	padding:0;
-	list-style:none;
+    margin:0;
+    padding:0;
+    list-style:none;
 }
 div#sidebar li ul li {
-	display:block;
-	border-bottom:1px solid #ddd;
-	color:#777;
+    display:block;
+    border-bottom:1px solid #ddd;
+    color:#777;
 }
 div#sidebar li ul li a {
-	color:#333;
-	text-decoration:none;
-	font-family:Verdana, Geneva, sans-serif;
-	font-weight:bold;
+    color:#333;
+    text-decoration:none;
+    font-family:Verdana, Geneva, sans-serif;
+    font-weight:bold;
 }
 div#sidebar li ul li a:hover {
-	color:#09285E;
-	background:transparent url('images/default/item-hovered.jpg') no-repeat;
+    color:#09285E;
+    background:transparent url('images/default/item-hovered.jpg') no-repeat;
 }
 
 div#sidebar li ul.blocklist li {
-	padding:0;
+    padding:0;
 }
 div#sidebar li ul.blocklist li.selected-item  {
-	border-bottom:none;
+    border-bottom:none;
 }
 div#sidebar li ul.blocklist li.selected-item a {
-	color:#fff;
-	font-weight:bold;
-	background:transparent url('images/default/item-selected.jpg') no-repeat;
+    color:#fff;
+    font-weight:bold;
+    background:transparent url('images/default/item-selected.jpg') no-repeat;
 }
 div#sidebar li ul.blocklist li.selected-item a:hover {
-	text-decoration:none;
+    text-decoration:none;
 }
 div#sidebar li ul.blocklist li a {
-	color:#666;
-	width:260px;
-	display:block;
-	padding-top:5px;
-	padding-right:10px;
-	padding-bottom:8px;
-	padding-left:10px;
+    color:#666;
+    width:260px;
+    display:block;
+    padding-top:5px;
+    padding-right:10px;
+    padding-bottom:8px;
+    padding-left:10px;
 }
 
 div#sidebar h4 { 
-	color:#0C367E;
-	font-family:arial;
-	font-size:16px;
-	text-transform:uppercase;
-	font-weight:bold;
-	margin:0;
-	padding:7px 10px;
+    color:#0C367E;
+    font-family:arial;
+    font-size:16px;
+    text-transform:uppercase;
+    font-weight:bold;
+    margin:0;
+    padding:7px 10px;
 }
 
 
 /*************************************** footer ***************************************/
 div#footer {
-	padding:20px 20px;
-	color:#fff;
-	border-top:5px solid #ccc;
-	position: relative;
-	top:230px;
+    padding:20px 20px;
+    color:#fff;
+    border-top:5px solid #ccc;
+    position: relative;
+    top:230px;
 }
 div#footer p {
-	color:#666;
-	margin:0;
-	font-size:11px;
-	width:50%;
+    color:#666;
+    margin:0;
+    font-size:11px;
+    width:50%;
 }
 div#footer p.left { float:left; }
 div#footer p.right { float:right; text-align:right; }
 div#footer p a {
-	color:#666;
-	font-weight:bold;
-	text-decoration:none;
+    color:#666;
+    font-weight:bold;
+    text-decoration:none;
 
 }
 
@@ -296,19 +296,19 @@ div#footer p a {
 
 /*************************************** clear fix ***************************************/
 .clear:after {
-	content: ".";
-	display: block;
-	clear: both;
-	visibility: hidden;
-	line-height: 0;
-	height: 0;
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
 }
  
 .clear {
-	display: inline-block;
+    display: inline-block;
 }
 .clear {
-	display: block;
+    display: block;
 }
 
 
@@ -320,72 +320,72 @@ div#footer p a {
 @media only screen and (max-width: 480px) {
 
 h1 {
-	font-size:20px;
+    font-size:20px;
 }
 h2 {
-	font-size:30px;
-	font-weight:bold;
-	letter-spacing:-2px;
-	padding:0 0 5px;
-	margin:0;
+    font-size:30px;
+    font-weight:bold;
+    letter-spacing:-2px;
+    padding:0 0 5px;
+    margin:0;
 }
 h3 {
-	font-size:20px;
-	padding-bottom:10px;
+    font-size:20px;
+    padding-bottom:10px;
 }
 h4 {
-	padding-bottom:10px;
-	font-size:15px;
+    padding-bottom:10px;
+    font-size:15px;
 }
 h5 {
-	padding-bottom:10px;
-	font-size:13px;
+    padding-bottom:10px;
+    font-size:13px;
 }
 
 div#header {
-	height:100px;
-	width:380px;
-	background:transparent url('images/mobile/header-bg.jpg') no-repeat;
-	position:absolute;
-	top:5px;
+    height:100px;
+    width:380px;
+    background:transparent url('images/mobile/header-bg.jpg') no-repeat;
+    position:absolute;
+    top:5px;
 }
 
 div#header h1{
-	font-size:18px;
-	margin-left:10px;
-	margin-top:10px;
-	letter-spacing:0px;
+    font-size:18px;
+    margin-left:10px;
+    margin-top:10px;
+    letter-spacing:0px;
 }
 div#header h2 {
-	margin-left:30px;
-	font-size:16px;
-	letter-spacing:0;
+    margin-left:30px;
+    font-size:16px;
+    letter-spacing:0;
 }
 div#header h3 {
-	margin-left:30px;
-	margin-top:5px;
-	font-size:14px;
+    margin-left:30px;
+    margin-top:5px;
+    font-size:14px;
 }
 
 
 body {
-	font-weight: 700;
-	font-size:16px;
-	background:#fff url('images/mobile/body-bg.jpg') repeat-x;
+    font-weight: 700;
+    font-size:16px;
+    background:#fff url('images/mobile/body-bg.jpg') repeat-x;
 }
 
 div#wrapper {
-	width:100%;
+    width:100%;
 
 }
 
 div#content {
-	width:100%;
+    width:100%;
 }
 
 div#body {
-	padding:0%;
-	top:100px;
+    padding:0%;
+    top:100px;
 }
 
 #CSchwinn {
@@ -393,25 +393,25 @@ div#body {
 }
 
 div.column-right {
-	margin-left:-1%;
-	margin-right:-1%;
-	margin-top:5px;
+    margin-left:-1%;
+    margin-right:-1%;
+    margin-top:5px;
 }
 
 div.column-left {
-	margin-top:0px;
+    margin-top:0px;
 }
 
 div#sidebar {
-	width:100%;
+    width:100%;
 
-	background-color: #c8ccd7;
-	margin-bottom: 5px;
+    background-color: #c8ccd7;
+    margin-bottom: 5px;
 }
 div#sidebar ul {
-	margin:0;
-	padding:0;
-	list-style:none;
+    margin:0;
+    padding:0;
+    list-style:none;
     width:100%;
 }
 
@@ -421,29 +421,29 @@ width:100%;
 }
 
 div#sidebar li ul li a {
-	background:#fff url('images/mobile/item-hovered.jpg') repeat-x;
+    background:#fff url('images/mobile/item-hovered.jpg') repeat-x;
 }
 
 div#sidebar li ul li a:hover {
-	background:#fff url('images/mobile/item-hovered.jpg') repeat-x;
+    background:#fff url('images/mobile/item-hovered.jpg') repeat-x;
 }
 
 div#sidebar li ul.blocklist li.selected-item a {
-	background:#fff url('images/mobile/item-selected.jpg') repeat-x;
+    background:#fff url('images/mobile/item-selected.jpg') repeat-x;
 }
 
 div#sidebar li ul.blocklist li a {
-	width:100%;
-	padding-top:3px;
-	padding-right:10px;
-	padding-bottom:3px;
-	padding-left:10px;
+    width:100%;
+    padding-top:3px;
+    padding-right:10px;
+    padding-bottom:3px;
+    padding-left:10px;
 }
 
 /*************************************** footer ***************************************/
 div#footer {
-	position: relative;
-	top:100px;
+    position: relative;
+    top:100px;
 }
 
 }
