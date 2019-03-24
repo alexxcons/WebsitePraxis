@@ -184,6 +184,7 @@ div#header h3 {
 }
 
 #CSchwinn {
+    float:left;
     width: 300px;
 }
 
@@ -389,6 +390,7 @@ div#body {
 }
 
 #CSchwinn {
+    float:left;
     width: 100px;
 }
 
