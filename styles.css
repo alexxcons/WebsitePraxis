@@ -183,9 +183,8 @@ div#header h3 {
 	font-size:18px;
 }
 
-#AnsichtPraxis {
-    width: 730px;
-    height: 349px;
+#CSchwinn {
+    width: 300px;
 }
 
 /*********************************** body ***********************************/
@@ -389,9 +388,8 @@ div#body {
 	top:100px;
 }
 
-#AnsichtPraxis {
-    width: 480px;
-    height: 230px;
+#CSchwinn {
+    width: 100px;
 }
 
 div.column-right {
