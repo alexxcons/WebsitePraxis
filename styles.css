@@ -412,20 +412,19 @@ div.column-left {
 
 div#sidebar {
     width:100%;
-
     background-color: #c8ccd7;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
 div#sidebar ul {
     margin:0;
     padding:0;
     list-style:none;
     width:100%;
+
 }
 
 div#sidebar li ul {
 width:100%;
-
 }
 
 div#sidebar li ul li a {
@@ -442,10 +441,8 @@ div#sidebar li ul.blocklist li.selected-item a {
 
 div#sidebar li ul.blocklist li a {
     width:100%;
-    padding-top:3px;
-    padding-right:10px;
-    padding-bottom:3px;
-    padding-left:10px;
+    padding-top:6px;
+    padding-bottom:6px;
 }
 
 /*************************************** footer ***************************************/
