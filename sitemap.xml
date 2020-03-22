@@ -1,83 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://arzt-eppertshausen.de/</loc>
-  <lastmod>2019-09-29T15:49:13+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/index.html</loc>
-  <lastmod>2019-09-29T15:49:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/aktuell.html</loc>
-  <lastmod>2019-09-29T15:49:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/team.html</loc>
-  <lastmod>2019-09-29T15:49:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/sprechzeiten.html</loc>
-  <lastmod>2019-09-29T15:49:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/kontakt.html</loc>
-  <lastmod>2019-09-29T15:49:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/anfahrt.html</loc>
-  <lastmod>2019-09-29T15:49:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/terminvergabe.html</loc>
-  <lastmod>2019-09-29T15:49:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/leistungen.html</loc>
-  <lastmod>2019-09-29T15:49:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/vorsorge.html</loc>
-  <lastmod>2019-09-29T15:49:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/reisemedizin.html</loc>
-  <lastmod>2019-09-29T15:49:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/notfallnummern.html</loc>
-  <lastmod>2019-09-29T15:49:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/notdienst.html</loc>
-  <lastmod>2019-09-29T15:49:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/impressum.html</loc>
-  <lastmod>2019-09-29T15:49:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://arzt-eppertshausen.de/datenschutz.html</loc>
-  <lastmod>2019-09-29T15:49:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+	<url>
+		<loc>https://arzt-eppertshausen.de/</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/index.html</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/aktuell.html</loc>
+		<lastmod>2020-03-22T14:48:12+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/corona.html</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/team.html</loc>
+		<lastmod>2020-03-22T14:48:14+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/sprechzeiten.html</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/kontakt.html</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/anfahrt.html</loc>
+		<lastmod>2020-03-22T14:48:12+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/terminvergabe.html</loc>
+		<lastmod>2020-03-22T14:48:14+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/leistungen.html</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/vorsorge.html</loc>
+		<lastmod>2020-03-22T14:48:14+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/reisemedizin.html</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/notfallnummern.html</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/notdienst.html</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/impressum.html</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://arzt-eppertshausen.de/datenschutz.html</loc>
+		<lastmod>2020-03-22T14:48:13+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
 </urlset>
