@@ -201,6 +201,21 @@ div#header h3 {
     font-weight:normal
 }
 
+.large-image-container, .large-image {
+    width: 800px;
+    margin-bottom:20px;
+    float:left;
+    margin-right:15px;
+
+}
+
+.large-image {
+    float:left;
+    margin-right:15px;
+    font-size: large;
+    font-weight:normal
+}
+
 /*********************************** body ***********************************/
 div#body {
     position: relative;
@@ -455,6 +470,22 @@ div#sidebar li ul.blocklist li a {
 div#footer {
     position: relative;
     top:100px;
+}
+
+
+.large-image-container, .large-image {
+    width: 480px;
+    margin-bottom:20px;
+    float:left;
+    margin-right:15px;
+
+}
+
+.large-image {
+    float:left;
+    margin-right:15px;
+    font-size: large;
+    font-weight:normal
 }
 
 }
