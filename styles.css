@@ -216,6 +216,36 @@ div#header h3 {
     font-weight:normal
 }
 
+.galery-image-container, .galery-image {
+    width: 500px;
+    margin-bottom:20px;
+    float:left;
+
+}
+
+.galery-image {
+    float:left;
+    font-size: large;
+    font-weight:normal
+    
+}
+
+.galery-image-zoomed {
+                    height: 400px;
+                    top: 50%;
+                    left: 50%;
+                    margin-top: -200px; /* Negative half of height. */
+                    margin-left: -250px; /* Negative half of width. */
+}
+
+
+
+
+/* img:hover { */
+/*     -webkit-transform:scale(1.5); or some other value */
+/*     transform:scale(1.5); */
+/* } */
+
 /*********************************** body ***********************************/
 div#body {
     position: relative;
@@ -301,6 +331,7 @@ div#footer {
     border-top:5px solid #ccc;
     position: relative;
     top:230px;
+    z-index: -1;
 }
 div#footer p {
     color:#666;
@@ -470,6 +501,7 @@ div#sidebar li ul.blocklist li a {
 div#footer {
     position: relative;
     top:100px;
+    z-index: -1;
 }
 
 
@@ -481,11 +513,21 @@ div#footer {
 
 }
 
-.large-image {
+.galery-image-container, .galery-image {
+    width: 240px;
+    margin-bottom:20px;
     float:left;
-    margin-right:15px;
-    font-size: large;
-    font-weight:normal
+    margin-left:0px;
+    margin-right:0px;
+    padding:0px;
+}
+
+.galery-image-zoomed {
+                    height: 160px;
+                    top: 50%;
+                    left: 50%;
+                    margin-top: -80px; /* Negative half of height. */
+                    margin-left: -120px; /* Negative half of width. */
 }
 
 }
