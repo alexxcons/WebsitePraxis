@@ -1,0 +1,24 @@
+ <rss version="2.0">
+<channel>
+	<title>Hausarztpraxis Eppertshausen</title>
+	<link>https://arzt-eppertshausen.de/aktuell.html</link>
+	<description>Fachärztin für Allgemeinmedizin</description>
+	<item>
+	    <title>Praxis wegen Krankheit geschlossen</title>
+	    <author>Dr.med.C.Schwinn</author>
+	    <link>https://arzt-eppertshausen.de/aktuell.html</link>
+	    <pubDate>Fri, 11 Mar 2022 07:00:00 GMT</pubDate>
+	    <description><![CDATA[
+         <div>
+             <p/>
+             <h3>Praxis wegen Krankheit geschlossen</h3>
+             <p>Unsere Praxis ist heute (11.03.2022) wegen Krankheit geschlossen.</p>
+             
+             <p>Vertretung:</p>
+             <p>Heike Berger, Carl-Zeiss-Str. 37, Ober-Roden, Tel. 06074-4865566</p>
+             <p></p>
+         </div>
+        ]]></description>
+	</item>
+</channel>
+</rss>
