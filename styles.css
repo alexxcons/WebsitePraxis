@@ -175,7 +175,7 @@ div#header h2 {
     color:#ffffff;
     padding-bottom:0;
     margin-left:80px;
-              margin-top:10px;
+    margin-top:10px;
     font-weight:normal;
     font-style: italic;
     font-size:40px;
@@ -190,13 +190,17 @@ div#header h3 {
 }
 
 .portrait-container, .portrait {
-    height: 200px;
+    display: table-row;
     margin-bottom:20px;
 }
 
 .portrait {
-    float:left;
-    margin-right:15px;
+    height: 200px;
+    display: table-cell;
+}
+.portrait-text {
+    display: table-cell;
+    vertical-align: top;
     font-size: large;
     font-weight:normal
 }
@@ -519,7 +523,6 @@ div#sidebar li ul.blocklist li a {
     padding-bottom:6px;
 }
 
-/*************************************** footer ***************************************/
 div#footer {
     position: relative;
     top:100px;
