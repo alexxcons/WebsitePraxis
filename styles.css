@@ -531,10 +531,9 @@ div#footer {
 
 
 .large-image-container, .large-image {
-    width: 480px;
+    width: 420px;
     margin-bottom:20px;
-    float:left;
-    margin-right:15px;
+    margin-right:0px;
 
 }
 
