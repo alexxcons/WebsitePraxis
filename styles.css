@@ -78,7 +78,6 @@ fieldset form {
 }
 fieldset p label {
     float:left;
-    width:150px;
 }
 fieldset form input, fieldset form select, fieldset form textarea {
     padding:5px;
@@ -140,13 +139,12 @@ li {
 
 /** For consistency make scrollbar on each page visible **/
 html {
-    overflow: -moz-scrollbars-vertical; 
     overflow-y: scroll;
 }
 
 /** wrapper **/
 div#wrapper {
-    width:1020px;
+    width:50%;
     margin:0px auto;
     padding:0;
 }
@@ -155,10 +153,8 @@ div#wrapper {
 /*********************************** header ***********************************/
 div#header {
     margin: auto;
-    padding : auto;
     background:transparent url('images/default/header-bg.jpg') no-repeat;
-    width:900px;
-    height:201px;
+    width:100%;
     position:absolute;
     top:13px;
 }
@@ -206,7 +202,7 @@ div#header h3 {
 }
 
 .large-image-container, .large-image {
-    width: 800px;
+    width: 100%;
     margin-bottom:20px;
     float:left;
     margin-right:15px;
@@ -243,13 +239,6 @@ div#header h3 {
 }
 
 
-
-
-/* img:hover { */
-/*     -webkit-transform:scale(1.5); or some other value */
-/*     transform:scale(1.5); */
-/* } */
-
 /*********************************** body ***********************************/
 div#body {
     position: relative;
@@ -270,7 +259,6 @@ div.column-center {
     width: 60%;
     display: table-cell;
     vertical-align: top;
-    width:730px;
 }
 div.column-right {
     width: 10%;
@@ -278,9 +266,7 @@ div.column-right {
     vertical-align: top;
     float:right;
 }
-div#sidebar {
-    width:268px;
-}
+
 div#sidebar ul {
     margin:0;
     padding:0;
@@ -415,8 +401,7 @@ h5 {
 }
 
 div#header {
-    height:100px;
-    width:380px;
+    width:100%;
     background:transparent url('images/mobile/header-bg.jpg') no-repeat;
     position:absolute;
     top:5px;
@@ -463,19 +448,20 @@ div#body {
 div.column-left {
     display: inline;
     margin-left:10px;
-    width:480px;
     margin-top:0px;
+    width:100%;
 }
 div.column-center {
     display: block;
-    width:480px;
-    margin-left:5px;
+    padding-left:5px;
+    padding-right:50px;
+    width:90%;
 }
 div.column-right {
     display: block;
-    align:top;
+    vertical-align:top;
     float:right;
-    width:480px;
+    width:90%;
 }
 
 #CSchwinn {
@@ -526,14 +512,13 @@ div#footer {
 
 
 .large-image-container, .large-image {
-    width: 420px;
+    width:90%;
     margin-bottom:20px;
-    margin-right:0px;
 
 }
 
 .galery-image-container, .galery-image {
-    width: 240px;
+    width:50%;
     margin-bottom:20px;
     float:left;
     margin-left:0px;
