@@ -1,6 +1,6 @@
 /** global **/
 body {
-    margin:0px auto;
+    margin:0;
     padding:0;
     font-family: Verdana, Calibri, Arial, Sans-Serif;
     font-weight:normal;
@@ -62,39 +62,7 @@ a:hover {
 a:focus {
     outline:none;
 }
-fieldset {
-    display:block;
-    border:none;
-    border-top:1px solid #e0e0e0;
-}
-fieldset legend {
-    font-weight:bold;
-    font-size:13px;
-    padding-right:10px;
-    color:#222;
-}
-fieldset form {
-    padding-top:15px;
-}
-fieldset p label {
-    float:left;
-}
-fieldset form input, fieldset form select, fieldset form textarea {
-    padding:5px;
-    color:#333333;
-    font-size:13px;
-    border:1px solid #ddd;
-}
-fieldset form input.formbutton {
-    margin-left:150px;
-    background:#0C3A87;
-    border:none;
-    border-bottom:3px solid #082659;
-    color:#ffffff;
-    font-weight:bold;
-    padding:5px 10px;
-    font-size:13px;
-}
+
 h1 {
     font-size:45px;
 }
@@ -102,7 +70,7 @@ h2 {
     font-size:30px;
     font-weight:bold;
     letter-spacing:-2px;
-    padding:0 0 5px;
+    padding:0;
     margin:0;
 }
 h3 {
@@ -152,11 +120,11 @@ div#wrapper {
 
 /*********************************** header ***********************************/
 div#header {
-    margin: auto;
+    height: 213px; /* 200 for header-bg, another 13 for the used margin-top */
     background:transparent url('images/default/header-bg.jpg') no-repeat;
     width:100%;
-    position:absolute;
-    top:13px;
+    position: relative;
+    margin-top:13px;
 }
 div#header h1{
     white-space: nowrap;
@@ -164,7 +132,6 @@ div#header h1{
     font-size:48px;
     font-weight:normal;
     margin-left:10px;
-    margin-top:20px;
 }
 div#header h2 {
     white-space: nowrap;
@@ -242,9 +209,9 @@ div#header h3 {
 /*********************************** body ***********************************/
 div#body {
     position: relative;
-    top:230px;
     display: table-row;
     width: 100%;
+    margin-top:50px;
 }
 
                 
@@ -383,16 +350,18 @@ h5 {
 }
 
 div#header {
-    width:100%;
+    width:100%;;
+    height: 80px; /* 100 for header-bg, another 10 for the used margin-top */
     background:transparent url('images/mobile/header-bg.jpg') no-repeat;
-    position:absolute;
-    top:5px;
+    background:#fff url('images/mobile/body-bg.jpg') repeat-x;
+    position: relative;
+    margin-top:0px;
 }
 
 div#header h1{
+    padding-top:5px;
     font-size:18px;
     margin-left:10px;
-    margin-top:10px;
     letter-spacing:0px;
 }
 div#header h2 {
@@ -410,7 +379,7 @@ div#header h3 {
 body {
     font-weight: 700;
     font-size:16px;
-    background:#fff url('images/mobile/body-bg.jpg') repeat-x;
+    
 }
 
 div#wrapper {
@@ -424,7 +393,7 @@ div#content {
 
 div#body {
     padding:0%;
-    top:100px;
+    position: relative;
 }
 
 div.column-left {
@@ -488,7 +457,6 @@ div#sidebar li ul.blocklist li a {
 
 div#footer {
     position: relative;
-    top:100px;
     z-index: -1;
 }
 
