@@ -241,7 +241,7 @@ div#sidebar ul {
 }
 div#sidebar li ul li {
     display:block;
-    border-bottom:1px solid #ddd;
+
     color:#777;
 }
 div#sidebar li ul li a {
