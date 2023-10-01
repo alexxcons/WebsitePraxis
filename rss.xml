@@ -3,6 +3,37 @@
 	<title>Hausarztpraxis Eppertshausen</title>
 	<link>https://arzt-eppertshausen.de/aktuell.html</link>
 	<description>Fachärztin für Allgemeinmedizin</description>
+     <item>
+        <title>Die Grippeimpfung ist da!</title>
+        <author>Dr.med.C.Schwinn</author>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sa, 01 Oct 2023 08:00:00 GMT</pubDate>
+        <description><![CDATA[
+                <div>
+                    <p></p>
+                    <h3>Die Grippeimpfung ist da!</h3>
+                    <p>Impfungen können täglich vormittags zwischen 11:00 und 12:00 oder an Montagen und Dienstagen auch nachmittags durchgeführt werden.</p>
+                    <p>Eine Terminvereinbarung ist nicht erforderlich.</p>
+                </div>
+                ]]>
+        </description>
+    </item>
+    <item>
+        <title>Coronaimpfung verfügbar!</title>
+        <author>Dr.med.C.Schwinn</author>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sa, 01 Oct 2023 08:00:00 GMT</pubDate>
+        <description><![CDATA[
+                <div>
+                    <p></p>
+                    <h3>Coronaimpfung verfügbar!</h3>
+                    <p>Eine Auffrischung der Coronaimpfung wird für alle Patienten ab 60 und Menschen mit schweren Vorerkrankungen empfohlen,
+                    die in den letzen 12 Monaten weder eine Coronaimpfung, noch eine Coronainfektion hatten.</p>
+                    <p>Impfungen können nur mit Termin efolgen. Sie können sich telefonisch in unsere Impfliste eintragen lassen.</p>
+                </div>
+                ]]>
+        </description>
+    </item>
     <item>
         <title>Die Grippeimpfung für alle ab 60 ist da!</title>
         <author>Dr.med.C.Schwinn</author>
