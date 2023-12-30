@@ -4,6 +4,20 @@
 	<link>https://arzt-eppertshausen.de/aktuell.html</link>
 	<description>Fachärztin für Allgemeinmedizin</description>
     <item>
+        <title>Das elektronische Rezept</title>
+        <author>Dr.med.C.Schwinn</author>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sa, 30 Dec 2023 08:00:00 GMT</pubDate>
+        <description><![CDATA[
+                <div>
+                    <h3>Das elektronische Rezept</h3>
+                    <p>Ab 01.01.2024 wird das elektronische Rezept zum neuen Standard.</p>
+                    <p>Hier finden sie eine <a href="documents/AnleitungElektronischesRezeptKomplett.pdf" target="_blank">Anleitung zur Nutzung des elektronischen Rezeptes</a>.</p>
+                </div>
+                ]]>
+        </description>
+    </item>  
+    <item>
         <title>Sprechzeiten zwischen den Jahren</title>
         <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
@@ -17,7 +31,7 @@
                 </div>
                 ]]>
         </description>
-    </item>  
+    </item>      
     <item>
         <title>Praxisurlaub 04.12.2023 bis 10.12.2023</title>
         <author>Dr.med.C.Schwinn</author>
