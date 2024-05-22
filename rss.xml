@@ -3,7 +3,25 @@
 	<title>Hausarztpraxis Eppertshausen</title>
 	<link>https://arzt-eppertshausen.de/aktuell.html</link>
 	<description>Fachärztin für Allgemeinmedizin</description>
-
+    <item>
+        <title>Praxis am 23.05.2024 vormittags geschlossen</title>
+        <author>Dr.med.C.Schwinn</author>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Mi, 22 May 2024 09:00:00 GMT</pubDate>
+        <description><![CDATA[
+                <div>
+                    <p></p>
+                    <h3>Praxis am 23.05.2024 vormittags geschlossen</h3>
+                    <p>Am Vormittag des 23.05. bleibt die Praxis geschlossen.</p>
+                    <p>Ab 13:30 Uhr sind wir wieder für sie da!</p>
+                    <p>In dringenden Fällen wenden sie sich bitte an:</p>
+                    <b>Praxis Heike Berger</b>
+                    <p></p>
+                    <p>Carl-Zeiss-Str. 37, Ober-Roden, Tel. 06074-4865566</p>
+               </div> 
+                ]]>
+        </description>
+    </item>
     <item>
         <title>Praxisurlaub</title>
         <author>Dr.med.C.Schwinn</author>
