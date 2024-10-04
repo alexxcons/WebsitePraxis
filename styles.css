@@ -291,28 +291,55 @@ div#sidebar h4 {
 
 
 /*************************************** footer ***************************************/
-div#footer {
+#footer {
     padding:20px 20px;
-    color:#fff;
+    color:#666;
     border-top:5px solid #ccc;
     position: relative;
-    top:230px;
-    z-index: -1;
+    margin-bottom:20px;
 }
-div#footer p {
-    color:#666;
+#footer #left {
     margin:0;
-    font-size:11px;
-    width:50%;
+    width:30%;
+    float:left;
 }
-div#footer p.left { float:left; }
-div#footer p.right { float:right; text-align:right; }
-div#footer p a {
+#footer #right {
+    margin:0;
+    width:70%;
+    float:right;
+    color:#000000;
+    font-size:11px;
+}
+
+#footer #right #tab1 {
+    width:40%;
+    float:left;
+}
+
+#footer #right #tab2 {
+    width:40%;
+    float:left;
+}
+
+#footer #right div p{
+   margin-right: 5px;
+}
+
+#footer #right #tab3 {
+    width:20%;
+    float:right;
+}
+
+#footer #left p a {
     color:#666;
     font-weight:bold;
+    font-size:16px;
     text-decoration:none;
-
 }
+#footer #left p {
+    font-size:11px;
+    text-decoration:none;
+} 
 
 /*************************************** used for mail address in impressum ***************************************/
 .cryptedmail:after {
@@ -454,12 +481,6 @@ div#sidebar li ul.blocklist li a {
     padding-top:6px;
     padding-bottom:6px;
 }
-
-div#footer {
-    position: relative;
-    z-index: -1;
-}
-
 
 .large-image-container, .large-image {
     width:90%;
