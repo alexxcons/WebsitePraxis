@@ -1,14 +1,14 @@
- <rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 	<title>Hausarztpraxis Eppertshausen</title>
 	<link>https://arzt-eppertshausen.de/aktuell.html</link>
 	<description>Fachärztin für Allgemeinmedizin</description>
+    <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
         <title>Praxisurlaub 25.11.2024 bis 01.12.2024</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
-        <pubDate>So, 11 Nov 2024 12:00:00 GMT</pubDate>
+        <pubDate>Mo, 11 Nov 2024 12:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
                     <p></p>
@@ -39,11 +39,11 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-29</guid>
     </item>
 
     <item>
         <title>Praxisurlaub 21.10.2024 bis 25.10.2024</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 20 Oct 2024 09:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -68,10 +68,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-28</guid>
     </item>
     <item>
         <title>Die Grippeimpfung ist da!</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 12 Oct 2024 08:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -83,10 +83,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-27</guid>
     </item>
     <item>
         <title>Coronaimpfung verfügbar!</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 12 Oct 2024 07:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -99,10 +99,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-26</guid>
     </item>
     <item>
         <title>Brückentag 04.10.2024</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Su, 19 Sep 2024 09:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -113,10 +113,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-25</guid>
     </item>
     <item>
         <title>Praxisurlaub 05.08.2024 bis 16.08.2024</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 03 Aug 2024 09:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -137,10 +137,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-24</guid>
     </item>
     <item>
         <title>Praxisurlaub</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Di, 23 Apr 2024 09:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -161,10 +161,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-23</guid>
     </item> 
     <item>
         <title>Praxisurlaub</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Di, 23 Apr 2024 09:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -185,12 +185,12 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-22</guid>
     </item> 
     <item>
         <title>Brückentage</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
-        <pubDate>So, 17 Apr 2024 08:00:00 GMT</pubDate>
+        <pubDate>Su, 17 Apr 2024 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
                     <p></p>
@@ -200,12 +200,12 @@
                 </div> 
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-21</guid>
     </item> 
     <item>
         <title>Praxisurlaub 2024</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
-        <pubDate>So, 17 Mar 2024 08:00:00 GMT</pubDate>
+        <pubDate>Su, 17 Mar 2024 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
                     <p></p>
@@ -224,15 +224,14 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-20</guid>
     </item>  
     <item>
         <title>Praxisurlaub 2024</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 04 Feb 2024 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
-                    <p/>
                     <h3>Praxisurlaub 2024</h3>
                     <p>25. März bis 31. März</p>
                     <p>29. April bis 03. Mai</p>
@@ -246,24 +245,24 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-19</guid>
     </item>  
     <item>
         <title>Das elektronische Rezept</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 30 Dec 2023 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
                     <h3>Das elektronische Rezept</h3>
                     <p>Ab 01.01.2024 wird das elektronische Rezept zum neuen Standard.</p>
-                    <p>Hier finden sie eine <a href="documents/AnleitungElektronischesRezeptKomplett.pdf" target="_blank">Anleitung zur Nutzung des elektronischen Rezeptes</a>.</p>
+                    <p>Hier finden sie eine <a href="https://arzt-eppertshausen.de/documents/AnleitungElektronischesRezeptKomplett.pdf" target="_blank">Anleitung zur Nutzung des elektronischen Rezeptes</a>.</p>
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-18</guid>
     </item>  
     <item>
         <title>Sprechzeiten zwischen den Jahren</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Fr, 22 Dec 2023 08:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -271,14 +270,14 @@
                     <p>
                     <h3>Sprechzeiten zwischen den Jahren</h3>
                     <p>Zwischen den Jahren ist die Praxis wie gewohnt für Sie geöffnet.</p>
-                    <p>An den Feiertagen bleibt die Praxis geschlossen. Bitte wenden Sie sich an diesen Tag an den <a href="notfall.html">Ärztlichen Bereitschaftsdienst</a></p>
+                    <p>An den Feiertagen bleibt die Praxis geschlossen. Bitte wenden Sie sich an diesen Tag an den <a href="https://arzt-eppertshausen.de/notfall.html">Ärztlichen Bereitschaftsdienst</a></p>
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-17</guid>
     </item>      
     <item>
         <title>Praxisurlaub 04.12.2023 bis 10.12.2023</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 18 Nov 2023 08:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -295,10 +294,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-16</guid>
     </item>     
      <item>
         <title>Die Grippeimpfung ist da!</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 01 Oct 2023 08:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -310,10 +309,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-15</guid>
     </item>
     <item>
         <title>Coronaimpfung verfügbar!</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 01 Oct 2023 08:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -326,15 +325,14 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-14</guid>
     </item>
     <item>
         <title>Die Grippeimpfung für alle ab 60 ist da!</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Fri, 22 Sep 2023 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
-                    <p/>
                     <h3>Die Grippeimpfung für <b>alle ab 60</b> ist da!</h3>
                     <p>Impfungen können täglich vormittags zwischen 11:00 und 12:00 oder an Montagen und Dienstagen auch nachmittags durchgeführt werden.</p>
                     <p>Eine Terminvereinbarung ist nicht erforderlich.</p>
@@ -342,10 +340,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-13</guid>
     </item>
     <item>
         <title>Brückentag am 02.10.2023</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Fri, 22 Sep 2023 08:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -357,10 +355,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-12</guid>
     </item>
     <item>
         <title>Praxisurlaub 23.10.2023 bis 29.10.2023</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Fri, 22 Sep 2023 08:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -377,10 +375,10 @@
                 </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-11</guid>
     </item>
     <item>
         <title>Praxisurlaub 03.04.2023 bis 14.04.2023</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Fri, 31 Mar 2023 08:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -397,10 +395,10 @@
                  </div>
                 ]]>
         </description>
+        <guid isPermaLink="false">unique-id-10</guid>
     </item>
     <item>
         <title>Praxisurlaub 2023</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sun, 11 Dec 2022 08:00:00 GMT</pubDate>
         <description><![CDATA[
@@ -416,28 +414,27 @@
                 <p>04. Dezember bis 10. Dezember</p>
             </div>
         ]]></description>
+        <guid isPermaLink="false">unique-id-9</guid>
     </item>
     <item>
         <title>Sprechzeiten zwischen den Jahren</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sun, 11 Dec 2022 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
                     <h3>Sprechzeiten zwischen den Jahren</h3>
                     <p>Zwischen den Jahren ist die Praxis wie gewohnt für Sie geöffnet.</p>
-                    <p>An den Feiertagen bleibt die Praxis geschlossen. Bitte wenden Sie sich an diesen Tag an den <a href="notfall.html">Ärztlichen Bereitschaftsdienst</a></p>
+                    <p>An den Feiertagen bleibt die Praxis geschlossen. Bitte wenden Sie sich an diesen Tag an den <a href="https://arzt-eppertshausen.de/notfall.html">Ärztlichen Bereitschaftsdienst</a></p>
                 </div>
         ]]></description>
+        <guid isPermaLink="false">unique-id-8</guid>
     </item>
     <item>
         <title>Praxisurlaub 05.12 bis 09.12</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Fri, 04 Nov 2022 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
-                    <p/>
                     <h3>Praxisurlaub 05.12 bis 09.12</h3>
                     <p>Unsere Praxis bleibt von Montag den <b>05.12.2022</b> bis einschließlich Freitag den <b>09.12.2022</b> wegen Urlaub geschlossen.</p>
 
@@ -448,29 +445,27 @@
                     <p></p>
                 </div>
         ]]></description>
+        <guid isPermaLink="false">unique-id-7</guid>
     </item>
     <item>
         <title>Praxisurlaub 22.08 bis 02.09</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sat, 30 Apr 2022 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
-                    <p/>
                     <h3>Die Grippeimpfung ist da!</h3>
                     <p>Impfungen können jederzeit während der üblichen Praxisöffnungszeiten durchgeführt werden, vorzugsweise vormittags zwischen 10:00 und 12:00 oder an Montagen und Dienstagen auch nachmittags.</p>
                     <p>Eine Terminvereinbarung ist nicht erforderlich.</p>
                 </div>
         ]]></description>
+        <guid isPermaLink="false">unique-id-6</guid>
     </item>
     <item>
         <title>Praxisurlaub 22.08 bis 02.09</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sat, 30 Apr 2022 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
-                    <p/>
                     <h3>Praxisurlaub 24.10 bis 28.10</h3>
                     <p>Unsere Praxis bleibt von Montag den <b>24.10.2022</b> bis einschließlich Freitag den <b>28.10.2022</b> wegen Urlaub geschlossen.</p>
 
@@ -481,15 +476,14 @@
                     <p></p>
                 </div>
         ]]></description>
+        <guid isPermaLink="false">unique-id-5</guid>
     </item>
     <item>
         <title>Praxisurlaub 22.08 bis 02.09</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sat, 30 Apr 2022 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
-                    <p/>
                     <h3>Praxisurlaub 22.08 bis 02.09</h3>
                     <p>Unsere Praxis bleibt von Montag den <b>22.08.2022</b> bis einschließlich Freitag den <b>02.09.2022</b> wegen Urlaub geschlossen.</p>
                 
@@ -500,29 +494,27 @@
                     <p></p>
                 </div>
         ]]></description>
+        <guid isPermaLink="false">unique-id-4</guid>
     </item>
     <item>
         <title>Brückentage 27. Mai und 17. Juni</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sat, 30 Apr 2022 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
-                    <p/>
                     <h3>Brückentage 27. Mai und 17. Juni</h3>
                     <p>An den Brückentagen 27. Mai und 17. Juni bleibt die Praxis geschlossen.</p>
                     <p>Bitte wenden Sie sich bei akuten Erkrankungen an den <a href="https://www.bereitschaftsdienst-hessen.de/" target="_blank">Ärztlichen Bereitschaftsdienst</a> (Tel: 116117).</p>
                 </div>
         ]]></description>
+        <guid isPermaLink="false">unique-id-3</guid>
     </item>
     <item>
         <title>Praxisurlaub 11.04.2022 - 22.04.2022</title>
-        <author>Dr.med.C.Schwinn</author>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Fri, 18 Mar 2022 08:00:00 GMT</pubDate>
         <description><![CDATA[
                 <div>
-                    <p/>
                     <h3>Praxisurlaub 11.04.2022 - 22.04.2022</h3>
                     <p>Unsere Praxis bleibt von Montag den <b>11.04.2022</b> bis einschließlich Freitag den <b>22.04.2022</b> wegen Urlaub geschlossen.</p>
                 
@@ -533,15 +525,14 @@
                     <p></p>
                 </div>
         ]]></description>
+        <guid isPermaLink="false">unique-id-2</guid>
     </item>
     <item>
 	    <title>Praxis wegen Krankheit geschlossen</title>
-	    <author>Dr.med.C.Schwinn</author>
 	    <link>https://arzt-eppertshausen.de/aktuell.html</link>
 	    <pubDate>Fri, 18 Mar 2022 08:00:00 GMT</pubDate>
 	    <description><![CDATA[
             <div>
-                <p/>
                 <h3>Praxis wegen Krankheit diese Woche geschlossen</h3>
                 <p>Leider müssen wir die Praxis diese Woche wegen Krankheit schließen.</p>
                 <p>Vorraussichtlich ab dem 28.03.2022 sind wir wieder für Sie da.</p>
@@ -552,6 +543,7 @@
                 <p></p>
             </div>
         ]]></description>
+        <guid isPermaLink="false">unique-id-1</guid>
 	</item>
 </channel>
 </rss>
