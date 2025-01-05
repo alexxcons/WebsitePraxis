@@ -6,6 +6,27 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Praxisurlaub 2025</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Su, 05 Jan 2025 12:00:00 GMT</pubDate>
+        <description><![CDATA[
+                <div>
+                    <h3>Praxisurlaub 2025</h3>
+                    <p>03. Februar bis 07. Februar</p>
+                    <p>14. April bis 18. April</p>
+                    <p>02. Mai (Brückentag)</p>
+                    <p>30. Mai (Brückentag)</p>
+                    <p>20. Juni (Brückentag)</p>
+                    <p>21. Juli bis 01. August</p>
+                    <p>06. Oktober bis 10. Oktober</p>
+                    <p>01. Dezember bis 05. Dezember</p>
+                </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-31</guid>
+    </item>
+
+    <item>
         <title>Weihnachtstage und Neujahr</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 07 Dec 2024 12:00:00 GMT</pubDate>
