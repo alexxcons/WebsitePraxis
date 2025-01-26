@@ -6,6 +6,43 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Praxisurlaub 03.02.2025 bis 07.02.2025</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Su, 26 Jan 2025 12:00:00 GMT</pubDate>
+        <description><![CDATA[
+            <div>
+                <p></p>
+                <h3>Praxisurlaub 03.02.2025 bis 07.02.2025</h3>
+                <p>Unsere Praxis bleibt von Montag den <b>03.02.2025</b> bis Freitag den <b>07.02.2025</b> wegen Urlaub geschlossen.</p>
+
+                <p><b>Vertretung:</b></p>
+                <b>Praxis Heike Berger</b>
+                <ul>
+                    <li>Carl-Zeiss-Str. 37, Ober-Roden, Tel. 06074-4865566</li>
+                </ul>
+                <b>Hausarztpraxis auf der Beune</b>
+                <ul>
+                    <li>Auf der Beune 70, Münster, Tel 06071/31164</li>
+                </ul>
+                <b>Dr.Taraki</b>
+                <ul>
+                    <li>Schlesier Str. 46, Münster, Telefon 06071/9597670</li>
+                </ul>
+                <b>Praxis Dr.Klar</b>
+                <ul>
+                    <li>Töpferstraße 9, Urberach, Tel. 06074-4849784</li>
+                </ul>
+                     <!-- Praxis Dr.Röckel
+                <ul>
+                    <li>Sandweg 8, Eppertshausen, Tel. 06071-3022600</li>
+                </ul> -->
+            </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-32</guid>
+    </item>
+
+    <item>
         <title>Praxisurlaub 2025</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Su, 05 Jan 2025 12:00:00 GMT</pubDate>
