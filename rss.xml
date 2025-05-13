@@ -6,6 +6,22 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>13.05.2025 - Praxis geschlossen</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Tu, 13 May 2025 7:00:00 GMT</pubDate>
+        <description><![CDATA[
+            <div>
+                <p></p>
+                <h3>13.05.2025 - Praxis geschlossen</h3>
+                <p>Am 13. Mai bleibt die Praxis wegen Krankheit geschlossen.</p>
+                <p>Bitte wenden Sie sich bei akuten Erkrankungen an den <a href="https://www.bereitschaftsdienst-hessen.de/" target="_blank">Ärztlichen Bereitschaftsdienst</a> (Tel: 116117).</p>
+            </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-35</guid>
+    </item>
+
+    <item>
         <title>Brückentag 02.05.2025</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 26 Apr 2025 12:00:00 GMT</pubDate>
