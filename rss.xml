@@ -6,6 +6,22 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Brückentag 19.06.2025</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>We, 18 Jun 2025 7:00:00 GMT</pubDate>
+        <description><![CDATA[
+               <div>
+                    <p></p>
+                    <h3>Brückentag 19.06.2025</h3>
+                    <p>Am 19. und 20. Juni bleibt die Praxis geschlossen.</p>
+                    <p>Bitte wenden Sie sich bei akuten Erkrankungen an den <a href="https://www.bereitschaftsdienst-hessen.de/" target="_blank">Ärztlichen Bereitschaftsdienst</a> (Tel: 116117).</p>
+                </div> 
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-37</guid>
+    </item>
+
+    <item>
         <title>Brückentag 30.05.2025</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sa, 17 May 2025 7:00:00 GMT</pubDate>
