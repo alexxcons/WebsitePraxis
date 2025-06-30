@@ -6,6 +6,27 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Urlaub am Freitag den 04.07.2025</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Mo, 30 Jun 2025 7:00:00 GMT</pubDate>
+        <description><![CDATA[
+            <div>
+                <p>
+                <h3>Urlaub am Freitag den 04.07.2025</h3>
+                <p>Freitag den 04.07.2025 bleibt die Praxis wegen Urlaub geschlossen.</p>
+                <p>Ab Montag den 07.07 ist die Praxis zu den gewohnten Sprechzeiten wieder für Sie geöffnet.</p>
+                <p><b>Vertretung:</b></p>
+                <b>Hausarztpraxis auf der Beune</b>
+                <ul>
+                    <li>Auf der Beune 70, Münster, Tel 06071/31164</li>
+                </ul>
+            </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-38</guid>
+    </item>
+
+    <item>
         <title>Brückentag 19.06.2025</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>We, 18 Jun 2025 7:00:00 GMT</pubDate>
