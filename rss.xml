@@ -6,6 +6,54 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Urlaub vom 03.10.25 bis 12.10.25</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sun, 21 Sep 2025 07:00:00 GMT</pubDate>
+        <description><![CDATA[
+            <div>
+                <p>
+                <h3>Urlaub vom 03.10.25 bis 12.10.25</h3>
+                <p>Ab Freitag den 03.10 bis Sonntag den 12.10 bleibt die Praxis wegen Urlaub geschlossen.</p>
+                <p>Ab Montag den 13.10 ist die Praxis zu den gewohnten Sprechzeiten wieder für Sie geöffnet.</p>
+                <p><b>Vertretung am 03.10 (Feiertag):</b></p>
+                    <p><a href="https://www.bereitschaftsdienst-hessen.de/" target="_blank">Ärztlicher Bereitschaftsdienst</a> (Tel: 116117)</p>
+ 
+                <p><b>Vertretung 06.10 bis 10.10:</b></p>
+                <b>Praxis Heike Berger</b>
+                <ul>
+                    <li>Carl-Zeiss-Str. 37, Ober-Roden, Tel. 06074-4865566</li>
+                </ul> 
+                <b>Praxis Dr.Taraki</b>
+                <ul>
+                    <li>Schlesier Str. 46, Münster, Telefon 06071/9597670</li>
+                </ul>
+                <b>Praxis Dr.Klar</b>
+                <ul>
+                    <li>Töpferstraße 9, Urberach, Tel. 06074-4849784</li>
+                </ul>
+            </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-42</guid>
+    </item>
+
+    <item>
+        <title>Coronaimpfung 2025 verfügbar!</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sun, 21 Sep 2025 07:00:00 GMT</pubDate>
+        <description><![CDATA[
+            <div>
+                <p></p>
+                <h3>Coronaimpfung 2025 verfügbar!</h3>
+                <p>Eine Auffrischung der Coronaimpfung wird für alle Patienten ab 60 und Menschen mit schweren Vorerkrankungen empfohlen.</p>
+                <p>Impfungen können nur mit Termin efolgen.</p>
+            </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-41</guid>
+    </item>
+
+    <item>
         <title>Praxis am Montag den 14.07.2024 nachmittags geschlossen</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sun, 13 Jul 2025 07:00:00 GMT</pubDate>
