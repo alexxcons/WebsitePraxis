@@ -6,6 +6,22 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Die Grippeimpfung ist da!</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sun, 28 Sep 2025 07:00:00 GMT</pubDate>
+        <description><![CDATA[
+            <div>
+                <p></p>
+                <h3>Die Grippeimpfung ist da!</h3>
+                <p>Impfungen können täglich vormittags zwischen 11:00 und 12:00 oder an Montagen und Dienstagen auch nachmittags durchgeführt werden.</p>
+                <p>Eine Terminvereinbarung ist nicht erforderlich.</p>
+            </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-43</guid>
+    </item>
+
+    <item>
         <title>Urlaub vom 03.10.25 bis 12.10.25</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sun, 21 Sep 2025 07:00:00 GMT</pubDate>
