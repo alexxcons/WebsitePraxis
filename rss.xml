@@ -6,6 +6,25 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Weihnachtstage und Neujahr</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sun, 14 Dec 2025 07:00:00 GMT</pubDate>
+        <description><![CDATA[
+                <div>
+                    <p>
+                    <h3>Weihnachtstage und Neujahr</h3>
+
+                    <p>Am 22.12 und 23.12 und vom 29.12 bis 31.12 und am 02.01 bleibt die Praxis wie gewohnt <b>geöffnet</b>.</p>
+                    <p>Am 24.12, 25.12. 26.12 und 01.01 ist unsere Praxis geschlossen.</p>
+                    <p>Vertretung an den Feiertagen:</p>
+                    <p><a href="https://www.bereitschaftsdienst-hessen.de/" target="_blank">Ärztlicher Bereitschaftsdienst</a> (Tel: 116117)</p>
+                </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-45</guid>
+    </item>
+
+    <item>
         <title>Urlaub vom 01.12.25 bis 05.12.25</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sun, 16 Nov 2025 07:00:00 GMT</pubDate>
