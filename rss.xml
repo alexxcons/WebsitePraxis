@@ -6,6 +6,51 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Urlaub vom 02.02.26 bis 06.02.26</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sun, 11 Jan 2026 07:00:00 GMT</pubDate>
+        <description><![CDATA[
+            <div>
+                <p>
+                <h3>Urlaub vom 02.02.26 bis 06.02.26</h3>
+                <p>Von Montag den 02.02 bis Freitag den 06.02 bleibt die Praxis wegen Urlaub geschlossen.</p>
+                <p>Ab Montag den 09.02 ist die Praxis zu den gewohnten Sprechzeiten wieder für Sie geöffnet.</p>
+                <p><b>Vertretung</b></p>
+                <b>Praxis Heike Berger</b>
+                <ul>
+                    <li>Carl-Zeiss-Str. 37, Ober-Roden, Tel. 06074-4865566</li>
+                </ul> 
+                <b>Praxis Dr.Taraki</b>
+                <ul>
+                    <li>Schlesier Str. 46, Münster, Telefon 06071/9597670</li>
+                </ul>
+            </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-47</guid>
+    </item>
+
+    <item>
+        <title>Praxisurlaub 2026</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sun, 11 Jan 2026 07:00:00 GMT</pubDate>
+        <description><![CDATA[
+            <div>
+                <h3>Praxisurlaub 2026</h3>
+                <p>02. Februar bis 06. Februar</p>
+                <p>06. April bis 10. April</p>
+                <p>15. Mai (Brückentag)</p>
+                <p>05. Juni (Brückentag)</p>
+                <p>20. Juli bis 31. Juli</p>
+                <p>12. Oktober bis 16. Oktober</p>
+                <p>30. November bis 04. Dezember</p>
+            </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-46</guid>
+    </item>
+
+    <item>
         <title>Weihnachtstage und Neujahr</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sun, 14 Dec 2025 07:00:00 GMT</pubDate>
