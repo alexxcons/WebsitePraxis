@@ -6,6 +6,31 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Urlaub vom 03.04.26 (Karfreitag) bis 10.04.26</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sun, 08 Mar 2026 07:00:00 GMT</pubDate>
+        <description><![CDATA[
+            <div>
+                <p>
+                <h3>Urlaub vom 03.04.26 (Karfreitag) bis 10.04.26</h3>
+                <p>Von Freitag, den 03.04 bis Freitag, den 10.04 bleibt die Praxis wegen Urlaub geschlossen.</p>
+                <p>Ab Montag den 13.04 ist die Praxis zu den gewohnten Sprechzeiten wieder für Sie geöffnet.</p>
+                <p><b>Vertretung</b></p>
+                <b>Praxis Dr.Taraki</b>
+                <ul>
+                    <li>Schlesier Str. 46, Münster, Telefon 06071/9597670</li>
+                </ul>
+                <b>Praxis Heike Berger</b>
+                <ul>
+                    <li>Carl-Zeiss-Str. 37, Ober-Roden, Tel. 06074-4865566</li>
+                </ul> 
+            </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-48</guid>
+    </item>
+
+    <item>
         <title>Urlaub vom 02.02.26 bis 06.02.26</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sun, 11 Jan 2026 07:00:00 GMT</pubDate>
