@@ -6,6 +6,30 @@
     <atom:link href="https://arzt-eppertshausen.de/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Grippeimpfung und Coronaimpfung 2026 verfügbar</title>
+        <link>https://arzt-eppertshausen.de/aktuell.html</link>
+        <pubDate>Sun, 20 Sep 2026 07:00:00 GMT</pubDate>
+        <description><![CDATA[
+            <div>
+                <p></p>
+                <h3>Die Grippeimpfung ist da!</h3>
+                <p>Grippeimpfungen können jederzeit während der üblichen Praxisöffnungszeiten durchgeführt werden,
+                    vorzugsweise täglich vormittags zwischen 11:00 und 12:00 oder an Montagen und Dienstagen auch nachmittags.</p>
+                <p>Eine Terminvereinbarung ist nicht erforderlich.</p>
+            </div>
+            <hr/>
+            <div>
+                <p></p>
+                <h3>Coronaimpfung 2026 verfügbar!</h3>
+                <p>Eine Auffrischung der Coronaimpfung wird für alle Patienten ab 75 und Menschen mit schweren Vorerkrankungen empfohlen.</p>
+                <p>Impfungen können nur mit Termin efolgen.</p>
+            </div>
+                ]]>
+        </description>
+        <guid isPermaLink="false">unique-id-51</guid>
+    </item>
+
+    <item>
         <title>Urlaub vom 07.10.26 bis 16.10.26</title>
         <link>https://arzt-eppertshausen.de/aktuell.html</link>
         <pubDate>Sun, 05 Sep 2026 07:00:00 GMT</pubDate>
